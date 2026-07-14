@@ -1,0 +1,49 @@
+asset_id,title,category,filename,goal,dims,webp_kb
+BM-BUN-001,Brioche Bun,ingredients/buns,BM-BUN-001-brioche-bun.webp,Identify a brioche bun,1440x2560,228
+BM-BUN-002,Potato Bun,ingredients/buns,BM-BUN-002-potato-bun.webp,Identify a potato bun,1440x2560,150
+BM-BUN-003,Sesame Bun,ingredients/buns,BM-BUN-003-sesame-bun.webp,Identify a sesame bun,1440x2560,273
+BM-BUN-004,Pretzel Bun,ingredients/buns,BM-BUN-004-pretzel-bun.webp,Identify a pretzel bun,1440x2560,320
+BM-BUN-005,Ciabatta,ingredients/buns,BM-BUN-005-ciabatta.webp,Identify ciabatta,1440x2560,295
+BM-BUN-006,English Muffin,ingredients/buns,BM-BUN-006-english-muffin.webp,Identify an English muffin,1440x2560,259
+BM-BUN-007,Lettuce Wrap,ingredients/buns,BM-BUN-007-lettuce-wrap.webp,Recognize the lettuce wrap alternative,1440x2560,244
+BM-BUN-008,All Bun Comparison,ingredients/buns,BM-BUN-008-all-bun-comparison.webp,Compare all bun options at a glance,1440x2560,496
+BM-CHEESE-011,American Cheese Slices,cheese,BM-CHEESE-011-american-slices.webp,Identify American cheese slices,1440x2560,172
+BM-CHEESE-012,Sharp Cheddar Slices,cheese,BM-CHEESE-012-sharp-cheddar-slices.webp,Identify sharp cheddar slices,1440x2560,194
+BM-CHEESE-013,Swiss Cheese,cheese,BM-CHEESE-013-swiss-cheese.webp,Identify Swiss cheese,1440x2560,189
+BM-CHEESE-014,Provolone,cheese,BM-CHEESE-014-provolone.webp,Identify provolone,1440x2560,144
+BM-CHEESE-015,Pepper Jack,cheese,BM-CHEESE-015-pepper-jack.webp,Identify Pepper Jack,1440x2560,172
+BM-CHEESE-016,Blue Cheese,cheese,BM-CHEESE-016-blue-cheese.webp,Identify blue cheese,1440x2560,240
+BM-CHEESE-017,Mozzarella,cheese,BM-CHEESE-017-mozzarella.webp,Identify fresh mozzarella,1440x2560,177
+BM-CHEESE-018,Cheese Comparison Flat Lay,cheese,BM-CHEESE-018-cheese-comparison-flatlay.webp,Compare all burger cheeses at a glance,1440x2560,456
+BM-COND-001,Mayonnaise,condiments,BM-COND-001-mayonnaise.webp,Identify mayonnaise,1440x2560,148
+BM-COND-002,Burger Sauce,condiments,BM-COND-002-burger-sauce.webp,Identify classic burger sauce,1440x2560,209
+BM-COND-003,Yellow Mustard,condiments,BM-COND-003-yellow-mustard.webp,Identify yellow mustard,1440x2560,167
+BM-COND-004,Dijon Mustard,condiments,BM-COND-004-dijon-mustard.webp,Identify Dijon mustard,1440x2560,176
+BM-COND-005,Ketchup,condiments,BM-COND-005-ketchup.webp,Identify ketchup,1440x2560,170
+BM-COND-006,BBQ Sauce,condiments,BM-COND-006-bbq-sauce.webp,Identify BBQ sauce,1440x2560,184
+BM-COND-007,Chipotle Mayo,condiments,BM-COND-007-chipotle-mayo.webp,Identify chipotle mayo,1440x2560,199
+BM-COND-008,Greek Yoghurt Burger Sauce,condiments,BM-COND-008-greek-yoghurt-burger-sauce.webp,Recognize the lighter yoghurt-based sauce,1440x2560,163
+BM-HERO-ING-001,Classic Cheeseburger Layout,heroes/ingredients,BM-HERO-ING-001-classic-cheeseburger-layout.webp,See everything needed for the classic cheeseburger,1440x2560,729
+BM-HERO-ING-002,High-Protein Layout,heroes/ingredients,BM-HERO-ING-002-high-protein-layout.webp,See the high-protein build,1440x2560,766
+BM-HERO-ING-003,Low-Calorie Layout,heroes/ingredients,BM-HERO-ING-003-low-calorie-layout.webp,See the low-calorie build,1440x2560,628
+BM-HERO-ING-004,Steakhouse Layout,heroes/ingredients,BM-HERO-ING-004-steakhouse-layout.webp,See the steakhouse build,1440x2560,654
+BM-HERO-ING-005,Smash Burger Layout,heroes/ingredients,BM-HERO-ING-005-smash-burger-layout.webp,See the smash burger build,1440x2560,670
+BM-HERO-ING-006,Meal-Prep Layout,heroes/ingredients,BM-HERO-ING-006-meal-prep-layout.webp,See batch preparation made visual,1440x2560,806
+BM-HERO-ING-007,Beef vs Beef-Pork Comparison,heroes/ingredients,BM-HERO-ING-007-beef-vs-beef-pork-comparison.webp,Compare beef vs beef-pork blend,1440x2560,691
+BM-HERO-ING-008,Beef vs Beef-Lamb Comparison,heroes/ingredients,BM-HERO-ING-008-beef-vs-beef-lamb-comparison.webp,Compare beef vs beef-lamb blend,1440x2560,850
+BM-ING-BEEF-001,80/20 Ground Chuck,ingredients/beef,BM-ING-BEEF-001-80-20-ground-chuck.webp,Recognize 80/20 chuck and its fat level,1440x2560,306
+BM-ING-BEEF-002,85/15 Ground Chuck,ingredients/beef,BM-ING-BEEF-002-85-15-ground-chuck.webp,Recognize 85/15 chuck and its fat level,1440x2560,239
+BM-ING-BEEF-003,90/10 Lean Beef,ingredients/beef,BM-ING-BEEF-003-90-10-lean-beef.webp,Recognize 90/10 lean beef,1440x2560,220
+BM-ING-BEEF-004,95/5 Extra Lean Beef,ingredients/beef,BM-ING-BEEF-004-95-5-extra-lean-beef.webp,Recognize 95/5 extra lean beef,1440x2560,254
+BM-ING-BEEF-005,Fat Percentage Comparison,ingredients/beef,BM-ING-BEEF-005-fat-percentage-comparison.webp,Compare beef fat percentages side by side,1440x2560,478
+BM-ING-BEEF-006,Fat Marbling Macro,ingredients/beef,BM-ING-BEEF-006-fat-marbling-macro.webp,Recognize quality fat marbling up close,1440x2560,261
+BM-ING-BEEF-007,Loose Premium Grind,ingredients/beef,BM-ING-BEEF-007-loose-premium-grind.webp,Recognize the ideal loose coarse grind,1440x2560,286
+BM-ING-BEEF-008,Fine Grind Comparison,ingredients/beef,BM-ING-BEEF-008-fine-grind-comparison.webp,Distinguish coarse vs fine grind,1440x2560,366
+BM-VEG-001,Tomato Slices,ingredients/vegetables,BM-VEG-001-tomato-slices.webp,Identify ideal burger tomato slices,1440x2560,206
+BM-VEG-002,Iceberg Lettuce,ingredients/vegetables,BM-VEG-002-iceberg-lettuce.webp,Identify iceberg lettuce,1440x2560,228
+BM-VEG-003,Butter Lettuce,ingredients/vegetables,BM-VEG-003-butter-lettuce.webp,Identify butter lettuce,1440x2560,278
+BM-VEG-004,Red Onion,ingredients/vegetables,BM-VEG-004-red-onion.webp,Identify red onion,1440x2560,242
+BM-VEG-005,White Onion,ingredients/vegetables,BM-VEG-005-white-onion.webp,Identify white onion,1440x2560,189
+BM-VEG-006,Pickles,ingredients/vegetables,BM-VEG-006-pickles.webp,Identify burger pickles,1440x2560,249
+BM-VEG-007,Jalapenos,ingredients/vegetables,BM-VEG-007-jalapenos.webp,Identify jalapenos,1440x2560,254
+BM-VEG-008,Vegetable Comparison,ingredients/vegetables,BM-VEG-008-vegetable-comparison.webp,Compare all burger vegetables at a glance,1440x2560,451
