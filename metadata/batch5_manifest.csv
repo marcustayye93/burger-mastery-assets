@@ -1,0 +1,51 @@
+asset_id,title,category,filename,goal,dims,webp_kb
+BM-ASM-001,Toasted Brioche Bottom Bun,assembly,BM-ASM-001-toasted-brioche-bottom-bun.webp,Recognize the toasted brioche foundation,1440x2560,228
+BM-ASM-002,Toasted Potato Bottom Bun,assembly,BM-ASM-002-toasted-potato-bottom-bun.webp,Recognize the toasted potato bun foundation,1440x2560,198
+BM-ASM-003,Correct Butter Coverage,assembly,BM-ASM-003-correct-butter-coverage.webp,Apply even butter coverage after toasting,1440x2560,230
+BM-ASM-004,Golden Toast Comparison,assembly,BM-ASM-004-golden-toast-comparison.webp,Recognize perfect golden toast vs under and over,1440x2560,372
+BM-ASM-005,Under-Toasted Bun,assembly,BM-ASM-005-under-toasted-bun.webp,Recognize an under-toasted bun,1440x2560,160
+BM-ASM-006,Over-Toasted Bun,assembly,BM-ASM-006-over-toasted-bun.webp,Recognize an over-toasted bun,1440x2560,252
+BM-ASM-007,Toasted Surface Macro,assembly,BM-ASM-007-toasted-surface-macro.webp,Checkpoint for ideal toasted surface texture,1440x2560,270
+BM-ASM-008,Bottom Bun Ready,assembly,BM-ASM-008-bottom-bun-ready.webp,The foundation ready for assembly,1440x2560,193
+BM-ASM-009,Correct Mayonnaise Spread,assembly,BM-ASM-009-correct-mayonnaise-spread.webp,Apply mayonnaise correctly,1440x2560,179
+BM-ASM-010,Correct Burger Sauce Spread,assembly,BM-ASM-010-correct-burger-sauce-spread.webp,Apply burger sauce correctly,1440x2560,171
+BM-ASM-011,Correct Mustard Spread,assembly,BM-ASM-011-correct-mustard-spread.webp,Apply mustard correctly,1440x2560,255
+BM-ASM-012,Correct Ketchup Spread,assembly,BM-ASM-012-correct-ketchup-spread.webp,Apply ketchup correctly,1440x2560,203
+BM-ASM-013,Too Much Sauce,assembly,BM-ASM-013-too-much-sauce.webp,Recognize excessive sauce,1440x2560,185
+BM-ASM-014,Too Little Sauce,assembly,BM-ASM-014-too-little-sauce.webp,Recognize insufficient sauce,1440x2560,223
+BM-ASM-015,Even Sauce Coverage Macro,assembly,BM-ASM-015-even-sauce-coverage-macro.webp,Checkpoint for even sauce coverage,1440x2560,110
+BM-ASM-016,Sauced Bun Ready,assembly,BM-ASM-016-sauced-bun-ready.webp,Sauced base ready for toppings,1440x2560,200
+BM-ASM-017,Correct Lettuce Placement,assembly,BM-ASM-017-correct-lettuce-placement.webp,Place lettuce correctly,1440x2560,241
+BM-ASM-018,Correct Tomato Placement,assembly,BM-ASM-018-correct-tomato-placement.webp,Place tomato correctly,1440x2560,276
+BM-ASM-019,Correct Onion Placement,assembly,BM-ASM-019-correct-onion-placement.webp,Place onion correctly,1440x2560,220
+BM-ASM-020,Correct Pickle Placement,assembly,BM-ASM-020-correct-pickle-placement.webp,Place pickles correctly,1440x2560,230
+BM-ASM-021,Complete Vegetable Stack,assembly,BM-ASM-021-complete-vegetable-stack.webp,The complete vegetable foundation,1440x2560,220
+BM-ASM-022,Uneven Vegetable Stack,assembly,BM-ASM-022-uneven-vegetable-stack.webp,Recognize an uneven stack,1440x2560,229
+BM-ASM-023,Clean Layering Macro,assembly,BM-ASM-023-clean-layering-macro.webp,Checkpoint for clean layering,1440x2560,305
+BM-ASM-024,Vegetables Ready for Patty,assembly,BM-ASM-024-vegetables-ready-for-patty.webp,Vegetable base ready for the patty,1440x2560,211
+BM-ASM-025,Patty onto Vegetables,assembly,BM-ASM-025-patty-onto-vegetables.webp,Place the cooked patty onto the vegetables,1440x2560,365
+BM-ASM-026,Perfect Cheese Alignment,assembly,BM-ASM-026-perfect-cheese-alignment.webp,Align the cheese slice perfectly,1440x2560,197
+BM-ASM-027,Centered Burger Stack,assembly,BM-ASM-027-centered-burger-stack.webp,Keep the stack on one vertical axis,1440x2560,222
+BM-ASM-028,Off-Centre Patty Mistake,assembly,BM-ASM-028-off-centre-patty-mistake.webp,Recognize an off-centre patty,1440x2560,295
+BM-ASM-029,Double Patty Alignment,assembly,BM-ASM-029-double-patty-alignment.webp,Align a double patty build,1440x2560,288
+BM-ASM-030,Triple Stack Alignment,assembly,BM-ASM-030-triple-stack-alignment.webp,Align a triple stack build,1440x2560,215
+BM-ASM-031,Melted Cheese Drape Macro,assembly,BM-ASM-031-melted-cheese-drape-macro.webp,Checkpoint for the perfect cheese drape,1440x2560,139
+BM-ASM-032,Stack Ready for Top Bun,assembly,BM-ASM-032-stack-ready-for-top-bun.webp,The stack ready for the top bun,1440x2560,220
+BM-ASM-033,Correct Top Bun Placement,assembly,BM-ASM-033-correct-top-bun-placement.webp,Place the top bun squarely,1440x2560,275
+BM-ASM-034,Slight Press After Assembly,assembly,BM-ASM-034-slight-press-after-assembly.webp,Settle the stack with a gentle press,1440x2560,218
+BM-ASM-035,Burger Held Naturally,assembly,BM-ASM-035-burger-held-naturally.webp,Hold the burger correctly,1440x2560,303
+BM-ASM-036,Burger Side Profile,assembly,BM-ASM-036-burger-side-profile.webp,The ideal finished profile,1440x2560,217
+BM-ASM-037,Perfect Top-Down View,assembly,BM-ASM-037-perfect-top-down-view.webp,The finished top-down view,1440x2560,433
+BM-ASM-038,Perfect 45-Degree View,assembly,BM-ASM-038-perfect-45-degree-view.webp,The finished 45-degree view,1440x2560,308
+BM-ASM-039,Finished Stack Macro,assembly,BM-ASM-039-finished-stack-macro.webp,The finished stack up close,1440x2560,242
+BM-ASM-040,Completed Burger Ready,assembly,BM-ASM-040-completed-burger-ready.webp,The completed burger ready for serving,1440x2560,256
+BM-HERO-ASM-001,Classic Cheeseburger Hero,heroes,BM-HERO-ASM-001-classic-cheeseburger-hero.webp,The definitive classic cheeseburger,1440x2560,403
+BM-HERO-ASM-002,Smash Burger Hero,heroes,BM-HERO-ASM-002-smash-burger-hero.webp,The definitive smash burger,1440x2560,406
+BM-HERO-ASM-003,Steakhouse Burger Hero,heroes,BM-HERO-ASM-003-steakhouse-burger-hero.webp,The definitive steakhouse burger,1440x2560,549
+BM-HERO-ASM-004,High-Protein Burger Hero,heroes,BM-HERO-ASM-004-high-protein-burger-hero.webp,The definitive high-protein build,1440x2560,432
+BM-HERO-ASM-005,Meal-Prep Burger Hero,heroes,BM-HERO-ASM-005-meal-prep-burger-hero.webp,The meal-prep result,1440x2560,530
+BM-HERO-ASM-006,Lower-Calorie Burger Hero,heroes,BM-HERO-ASM-006-lower-calorie-burger-hero.webp,The definitive lower-calorie build,1440x2560,364
+BM-HERO-ASM-007,Burger Cross-Section Hero,heroes,BM-HERO-ASM-007-burger-cross-section-hero.webp,The definitive cross-section,1440x2560,388
+BM-HERO-ASM-008,Editorial Beauty Shot,heroes,BM-HERO-ASM-008-editorial-beauty-shot.webp,The signature homepage image,1440x2560,276
+BM-HERO-ASM-009,Burger Held in One Hand,heroes,BM-HERO-ASM-009-burger-held-one-hand.webp,The burger in hand,1440x2560,282
+BM-HERO-ASM-010,Minimalist Plated Hero,heroes,BM-HERO-ASM-010-minimalist-plated-hero.webp,The minimalist plated presentation,1440x2560,276
